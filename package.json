@@ -1,0 +1,29 @@
+{
+  "name": "sit725-2023-t3-p6",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lswitlearning/sit725-2023-t3-prac6"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lswitlearning/sit725-2023-t3-prac6/issues"
+  },
+  "homepage": "https://github.com/lswitlearning/sit725-2023-t3-prac6/blob/main/README.md",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "express": "^4.18.2",
+    "expresss": "^0.0.0",
+    "mocha": "^10.2.0",
+    "mongodb": "^4.4.1",
+    "nodemon": "^3.0.1",
+    "request": "^2.88.2"
+  },
+  "description": "2023/12/15 Workshop6"
+}
